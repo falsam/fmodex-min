@@ -42,10 +42,3 @@ If fmodLib
   
   Delay(10000)
 EndIf
-
-
-; IDE Options = PureBasic 5.42 LTS (Windows - x86)
-; CursorPosition = 44
-; FirstLine = 1
-; Folding = -
-; EnableXP
